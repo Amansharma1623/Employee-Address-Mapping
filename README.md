@@ -63,7 +63,6 @@ ___
 #### Add List of Employees :
 POST Method :  http://localhost:8080/swagger-ui/index.html#/emps
 
-
 #### Update Employees Details  :
 - GET Method : http://localhost:8080/swagger-ui/index.html#/emp/name/id/{empId}
 
@@ -75,8 +74,6 @@ POST Method :  http://localhost:8080/swagger-ui/index.html#/emps
 
 #### DELETE Address By AddressId  :
 - PUT Method :   http://localhost:8080/swagger-ui/index.html#/address/{id}
-
-
 
 
  <!-- Acknowledgments -->
